@@ -1,8 +1,17 @@
 ## Hola, soy José Fernando Ribón Aislant 👋
-[<img align='right' src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018.png?f=webp&w=256" width="100" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%" height="300px" alt="giphy">]
+
+
+
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-4-pack-logos-icons-2945018.png?f=webp&w=256" width="100" alt="giphy">]
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
-
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-html-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030115.png?f=webp&w=256" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-2945110.png?f=webp&w=256" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-css-logo-icon-download-in-svg-png-gif-file-formats--logos-pack-icons-722685.png?f=webp&w=256" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://d2r9phh2n9g4lt.cloudfront.net/website/product-images/GoAnywhere_MFT.jpg" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://broadviewnetworks.ca/wp-content/uploads/2021/04/power-apps-logo-800-600.png" alt="java" width="120">](https://docs.oracle.com/en/java/)
+[<img src="https://oneflow.com/app/uploads/2023/11/Power-automate.png" alt="java" width="120">](https://docs.oracle.com/en/java/)
 
 
 
