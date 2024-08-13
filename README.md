@@ -12,8 +12,8 @@
 [<img src="https://d2r9phh2n9g4lt.cloudfront.net/website/product-images/GoAnywhere_MFT.jpg" alt="java" width="100">](https://www.goanywhere.com/es)
 [<img src="https://broadviewnetworks.ca/wp-content/uploads/2021/04/power-apps-logo-800-600.png" alt="java" width="120">](https://learn.microsoft.com/es-es/power-apps/powerapps-overview)
 [<img src="https://oneflow.com/app/uploads/2023/11/Power-automate.png" alt="java" width="120">](https://www.microsoft.com/es-es/power-platform/products/power-automate)
-
-
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-oracle-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226044.png?f=webp&w=256" alt="java" width="120">](https://www.microsoft.com/es-es/power-platform/products/power-automate)
+[<img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="java" width="120">](https://www.microsoft.com/es-es/power-platform/products/power-automate)
 
 
 <!--
